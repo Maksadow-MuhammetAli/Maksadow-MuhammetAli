@@ -14,6 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maksadow-MuhammetAli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksadow-MuhammetAli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Children are like farts; everyone tolerates their own.
+### Quote from me 👇
+✍️ Children are like farts; everyone tolerates their own.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
